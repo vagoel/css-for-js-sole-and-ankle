@@ -41,7 +41,7 @@ const Nav = styled.nav`
   display: flex;
   align-items: center;
   gap: var(--padding);
-  padding-inline: (--padding);
+  padding-inline: var(--padding);
 `;
 
 const NavLink = styled.a`

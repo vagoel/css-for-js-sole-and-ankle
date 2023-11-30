@@ -23,7 +23,7 @@ const Wrapper = styled.div`
 `;
 
 const ShoeWrapper = styled.div`
-  width: 344px;
+  flex-basis: 344px;
   flex-grow: 1;
 `;
 
